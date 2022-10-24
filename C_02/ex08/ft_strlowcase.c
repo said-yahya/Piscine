@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char    *ft_strupcase(char *str)
+char    *ft_strlowcase(char *str)
 {
     int i;
     
