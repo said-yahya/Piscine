@@ -17,6 +17,6 @@ char    *ft_strlowcase(char *str)
 int main()
 {
     char a[] = "xkn567aSDFGnS";
-    printf("%s", ft_strupcase(a));
+    printf("%s", ft_strlowcase(a));
 }
 
